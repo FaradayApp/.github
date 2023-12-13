@@ -1,12 +1,13 @@
-## Hi  👋
+![Faradey](https://github.com/FaradeyApp/.github/blob/main/images/Frame%2010.jpg) 
 
-<!--
+## О продукте
 
-**Here are some ideas to get you started:**
+Бесплатный инструмент управления проектами с открытым исходным кодом. Многофункциональное программное обеспечение, которое предлагает очень простой запуск благодаря интуитивно понятному пользовательскому интерфейсу.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Faradey](https://far-one.vercel.app/#advantagesBlock) - клиент Matrix на базе Element с возможностями обмена мгновенными сообщениями.
+* [Matrix](https://matrix.org/) - открытый и свободный протокол для децентрализованного общения в реальном времени.
+* [Element](https://element.io/) - пользовательский клиент Matrix. Реализована веб-версия, приложения на Android и iOS.
+
+## Главное преимущество
+
+Мы сделали мессенджер еще безопаснее и функциональнее с помощью nuke-пароля, инструментов управления, шифрования файлов, .Onion и I2P соеденения и канбан-доски.
