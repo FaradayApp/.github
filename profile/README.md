@@ -1,4 +1,4 @@
-![Faraday](https://github.com/FaradeyApp/.github/blob/main/images/Frame%2010.jpg) 
+![Faraday](https://github.com/FaradayApp/.github/blob/main/images/Frame%2010.jpg) 
 
 ## О продукте
 
