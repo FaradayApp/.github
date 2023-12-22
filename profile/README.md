@@ -1,10 +1,10 @@
-![Faradey](https://github.com/FaradeyApp/.github/blob/main/images/Frame%2010.jpg) 
+![Faraday](https://github.com/FaradeyApp/.github/blob/main/images/Frame%2010.jpg) 
 
 ## О продукте
 
 Бесплатный инструмент управления проектами с открытым исходным кодом. Многофункциональное программное обеспечение, которое предлагает очень простой запуск благодаря интуитивно понятному пользовательскому интерфейсу.
 
-* [Faradey](https://far-one.vercel.app/#advantagesBlock) - клиент Matrix на базе Element с возможностями обмена мгновенными сообщениями.
+* [Faraday](https://far-one.vercel.app/#advantagesBlock) - клиент Matrix на базе Element с возможностями обмена мгновенными сообщениями.
 * [Matrix](https://matrix.org/) - открытый и свободный протокол для децентрализованного общения в реальном времени.
 * [Element](https://element.io/) - пользовательский клиент Matrix. Реализована веб-версия, приложения на Android и iOS.
 
